@@ -15,7 +15,7 @@ gallery:
 gallery_limit: 2
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+[Repositorio](https://github.com/lab-humanidades-digitales-pucp)
 
 The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
 
