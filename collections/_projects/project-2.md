@@ -1,13 +1,13 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
+title: "Github del laboratorio"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-11-03T10:20:00Z
 weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/quechua-python-web.png"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Development"]
-client: "Dubai Star"
+client: "github"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
